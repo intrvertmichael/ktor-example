@@ -36,3 +36,7 @@ out/
 .vscode/
 
 /tmp
+
+
+### FRONT END ###
+/frontend/node_modules
